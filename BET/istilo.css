@@ -1,0 +1,23 @@
+h1{
+    color: orange;
+}
+h2{
+    color: rgb(219, 110, 70);
+}
+body{
+    background-color: black;
+}
+img{
+    width: 800px;
+    height: 400px;
+    border-color: goldenrod;
+}   
+div{
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 40px;
+    color: red;
+    background-color: gold;
+}
